@@ -1,4 +1,4 @@
 insta-stream
 ============
 
-A pseudo-streaming instagram client library
+A pseudo-streaming instagram API client
