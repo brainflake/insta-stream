@@ -1,0 +1,25 @@
+{
+  "name": "insta-stream",
+  "version": "0.0.0",
+  "description": "A pseudo-streaming instagram API client",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "request": "~2.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brainflake/insta-stream.git"
+  },
+  "keywords": [
+    "instagram"
+  ],
+  "author": "Brian Falk",
+  "license": "BSD"
+}
